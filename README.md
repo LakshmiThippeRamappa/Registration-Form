@@ -56,10 +56,14 @@ This is a simple Java-based web application that allows users to register, view,
      ```
 
 ---
+##Frontend
+
+The frontend uses JSP pages (user-form.jsp and user-list.jsp) for user interaction.
+Bootstrap 4 is included for styling.
 
 ## Backend Setup
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/user-management-system.git
-   cd user-management-system
+   git clone https://github.com/LakshmiThippeRamappa/Registration-Form/tree/main
+   cd Registration-Form
